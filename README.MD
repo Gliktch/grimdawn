@@ -1,6 +1,8 @@
  Grim Dawn Muted Sounds v1.1
 =============================
 
+Download here: https://github.com/Gliktch/grimdawn/releases/download/mutedsounds/GrimDawn_MutedSounds_v1.1.zip
+
 ### What It Is ###
 
 I find some game sounds (like the crackling of the riftgate, or a couple of the
