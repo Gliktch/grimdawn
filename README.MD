@@ -1,7 +1,7 @@
 
-###===============###
-### GD Muter v0.8 ###
-###===============###
+### =============== ###
+###  GD Muter v0.8  ###
+### =============== ###
 
 
 Download here: https://github.com/Gliktch/grimdawn/blob/main/GD_Muter_v0.8.exe
