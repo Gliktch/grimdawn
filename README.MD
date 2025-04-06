@@ -4,7 +4,7 @@
 ### =============== ###
 
 
-Download here: https://github.com/Gliktch/grimdawn/blob/main/GD_Muter_v0.8.exe
+Download here: https://github.com/Gliktch/grimdawn/releases/download/0.8-windows/GD_Muter_v0.8.exe
 
 
 ### What It Is ###
